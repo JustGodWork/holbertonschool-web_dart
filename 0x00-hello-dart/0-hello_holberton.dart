@@ -1,3 +1,3 @@
 void main() {
-  print('Hello Holberton School!\n');
+  print('Hello Holberton!\n');
 }
