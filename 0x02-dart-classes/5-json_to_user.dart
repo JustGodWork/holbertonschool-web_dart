@@ -25,5 +25,5 @@ class User {
   }
 
   @override
-  String toString() => 'User(id : $id ,name: $name,  age: $age, height: $height)';
+  String toString() => 'User(id : $id ,name: $name, age: $age, height: $height)';
 }
