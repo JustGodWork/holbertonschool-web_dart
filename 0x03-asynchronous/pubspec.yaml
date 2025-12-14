@@ -1,0 +1,10 @@
+name: holbertonschool_web_dart_0x03_asynchronous
+description: "Holberton School Web Dart - 0x03 Asynchronous exercises"
+version: 1.0.0
+environment:
+	sdk: ">=2.12.0 <4.0.0"
+
+dependencies: {}
+
+dev_dependencies: {}
+
